@@ -1,0 +1,17 @@
+Item #,Component / Name,Description / Specification,Category,Pack / Purchase Qty,Total Price (USD)
+1,Arduino Nano,ATmega328P Microcontroller Board (CH340G),Microcontroller,1 Pc,3.2
+2,DFPlayer Mini MP3 Audio Player Module,UART Hardware Audio Decoder / MicroSD Card Slot,Audio Module,1 Pc,1.4
+3,TRRS Module PJ-320A 3.5mm Female Audio Jack Connector,3.5mm PCB Mount Audio Jack Module,Connector,Pack of 5,1.2
+4,0.96 inch I2C SSD1306 128x64 OLED Display Module,"Monochrome 128x64 OLED Screen, I2C Interface",Display,1 Pc,1.8
+5,3.7V LiPo Battery,Rechargeable 3.7V Lithium Polymer Battery (1S),Power,1 Pc,2.8
+6,TP4056 + Boost Charger Module,1S LiPo Charger with 5V Step-Up Boost Output,Power / Charger,Pack of 5,2.2
+7,SPDT Power Switch,"SS12D00 Mini Slide Switch (3-pin, SPDT)",Switch,Pack of 20,0.9
+8,Tactile Switch 6x6,6x6x5mm Momentary Push Button Switch,Switch,Pack of 50,1.1
+9,1k Ohm Resistor,1/4W Metal Film Resistors 1kΩ,Passive Component,Pack of 100,1.0
+10,2.54mm Single Row Female Pin Header Strip,40-pin 2.54mm pitch female socket strips,Connector / Header,Pack of 10,1.2
+11,2.54mm Single Row Male Pin Header Strip,40-pin 2.54mm pitch male pin headers,Connector / Header,Pack of 10,0.8
+12,M1.6 Heat-Set Brass Inserts,M1.6 Threaded Brass Heat-Set Inserts,Hardware,Pack of 50,1.5
+13,M1.6 Machine Screws,M1.6 Pan Head Metric Machine Screws,Hardware,Pack of 50,1.3
+14,M3 Screws,M3 Metric Button/Pan Head Machine Screws,Hardware,Pack of 50,1.6
+15,Custom 3D printed Body,Body1 - Printed by Printing Legion (Filament + Shipping),Enclosure,1 Unit,10.0
+16,Custom PCB board,Board1 - Fabricated PCB from JLCPCB (Preparation + Shipping),PCB,1 Order (5 Pcs),18.0
