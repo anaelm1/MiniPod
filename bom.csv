@@ -1,0 +1,16 @@
+Item #,Component / Name,Description / Specification,Category,Quantity,Estimated Unit Price (USD),Estimated Total Price (USD),Estimated Unit Price (PKR),Estimated Total Price (PKR),Designator / Reference
+1,Arduino Nano,ATmega328P Microcontroller Board,Microcontroller,1,4.5,4.5,1250,1250,A1
+2,DFPlayer Mini MP3 Audio Player Module,UART Hardware Audio Decoder / MicroSD Module,Audio Module,1,1.8,1.8,500,500,DFPlayer Mini
+3,TRRS Module PJ-320A 3.5mm Female Audio Jack Connector,3.5mm PCB Mount Headphone Jack Connector,Connector,1,0.3,0.3,80,80,3.5mm Audio Jack
+4,0.96 inch I2C SSD1306 128x64 OLED Display Module,"Monochrome OLED Display, I2C Interface",Display,1,2.2,2.2,600,600,U1
+5,3.7V LiPo Battery,Rechargeable Lithium Polymer Battery (1S),Power,1,2.5,2.5,700,700,LiPo Battery
+6,TP4056 + Boost Charger Module,1S LiPo Charger with 5V Step-Up Converter,Power / Charger,1,1.2,1.2,350,350,TP4056 + Boost
+7,SPDT Power Switch,Single Pole Double Throw Slide Switch,Switch,1,0.15,0.15,40,40,SPDT Power Switch
+8,Tactile Switch 6x6,6x6mm Momentary Push Button Switch,Switch,5,0.05,0.25,15,75,SW1 - SW5
+9,1k Ohm Resistor,1kΩ 1/4W Through-Hole / SMD Resistor,Passive Component,1,0.02,0.02,5,5,R1
+10,2.54mm Single Row Female Pin Header Strip,15-pin 2.54mm pitch female socket connector,Connector / Header,2,0.15,0.3,40,80,Header_Female
+11,2.54mm Single Row Male Pin Header Strip,15-pin 2.54mm pitch male pin header,Connector / Header,2,0.1,0.2,25,50,Header_Male
+12,M1.6 Heat-Set Brass Inserts,Threaded brass inserts for 3D printed housing,Hardware,4,0.1,0.4,25,100,HW-Insert
+13,M1.6 Machine Screws,M1.6 Pan Head Machine Screws for mounting PCB/modules,Hardware,4,0.05,0.2,15,60,HW-Screw-M1.6
+14,M3 Screws,M3 Machine Screws for enclosure assembly,Hardware,4,0.08,0.32,20,80,HW-Screw-M3
+15,3D printed body,Custom 3D printed enclosure / housing,Enclosure,1,3.0,3.0,800,800,ENC-01
